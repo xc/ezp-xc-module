@@ -1,4 +1,1 @@
-Operation
-=========
-
-xc-ez-module
+Improvement of eZ Publish in module operation, fetch function, template function
